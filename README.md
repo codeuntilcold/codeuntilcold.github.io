@@ -1,3 +1,1 @@
-# codeuntilcold.github.io
-
-## This is CLBGS
+# This is CLBGS
