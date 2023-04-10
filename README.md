@@ -1,1 +1,1 @@
-# This is CLBGS
+# Personal blog

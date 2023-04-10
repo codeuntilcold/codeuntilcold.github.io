@@ -1,0 +1,5 @@
+baseURL = 'https://codeuntilcold.github.io/'
+languageCode = 'en-us'
+title = 'coc personal blog'
+theme = 'ananke'
+
